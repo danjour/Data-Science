@@ -26,7 +26,7 @@
 
 ### List of projects in Jupyter Notebook:
 
-- Titanic, predicting the survivors
+- Titanic, predicting the survivors: https://bit.ly/3sEdjsz
 - Predict Churning Customers
 
 

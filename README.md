@@ -49,6 +49,6 @@
 
 ### About Me:
 
-Nada para falar ;-;
+Nothing to say.
 
 >You have nothing to lose but your chains.

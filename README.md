@@ -29,7 +29,7 @@
 - Titanic, predicting the survivors: https://bit.ly/3sEdjsz
 - Predict Churning Customers
 
-# Data Visualization
+### Data Visualization
 - Advertising: 
 
 ### Built With:

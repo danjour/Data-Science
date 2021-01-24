@@ -30,7 +30,7 @@
 - Predict Churning Customers
 
 ### Data Visualization
-- Advertising: 
+- Advertising: https://bityli.com/dFpTh
 
 ### Built With:
 

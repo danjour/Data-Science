@@ -25,9 +25,11 @@
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### List of projects in Jupyter Notebook:
-
-- Titanic, predicting the survivors: https://bit.ly/3sEdjsz
-- Advertising: https://bityli.com/dFpTh
+- Machine Learning
+  - Titanic, predicting the survivors: https://bit.ly/3sEdjsz
+  - Advertising: https://bityli.com/dFpTh
+- Data Visualization:
+  - Covid India: https://bityli.com/Pmzd3
 
 ### Built With:
 

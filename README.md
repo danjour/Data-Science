@@ -28,7 +28,7 @@
 - Machine Learning
   - Titanic, predicting the survivors: https://bit.ly/3sEdjsz
   - Advertising: https://bityli.com/dFpTh
-  - Twitter US Airline Sentiment: 
+  - Twitter US Airline Sentiment: https://bityli.com/fdVMt
 - Data Visualization:
   - Covid India: https://bityli.com/Pmzd3
 
